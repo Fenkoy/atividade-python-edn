@@ -4,3 +4,5 @@ def calcular_gorjeta(valor_conta, porcentagem_gorjeta):
 print(calcular_gorjeta(2300,15))
 
 
+
+
